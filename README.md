@@ -157,6 +157,15 @@
 
   ### Summary
   
-  - Five advanced constraints enforced through triggers that maintain data integrity beyond standard SQL constraints
+  - Five constraints enforced through triggers and stored procedures that maintain data integrity beyond standard SQL constraints
   - Deferrable triggers ensure transactional consistency across multi-statement operations
   - Test cases coverage validates both acceptance and rejection scenarios for each constraint
+
+# Contributors
+
+| No. | Name |
+|-----|------|
+| 1 | Moey Sean Jean |
+| 2 | San Wei Rong, Jarren |
+| 3 | Fang Jinfeng |
+| 4 | Toh Jun Yee |
